@@ -11,6 +11,10 @@ Our public work focuses on useful software, clear product guidance, responsible 
 - [Omy — local-first media product](https://github.com/OtyaHQ/Omy)
 - [OEnd — shared platform and integration services](https://github.com/OtyaHQ/OEnd)
 
+## Official channels
+
+Follow **@otyahq** on [TikTok](https://www.tiktok.com/@otyahq), [YouTube](https://www.youtube.com/@otyahq), [Instagram](https://www.instagram.com/otyahq/) and [X](https://x.com/otyahq) for official product updates, releases and company announcements.
+
 ## Security
 
 Please report security concerns through the [Otya security policy in OWeb](https://github.com/OtyaHQ/OWeb/blob/main/SECURITY.md). Do not publish credentials, private data or exploit details in public issues.
