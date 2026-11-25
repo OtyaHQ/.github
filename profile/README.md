@@ -13,9 +13,9 @@ Our public work focuses on useful software, clear product guidance, responsible 
 
 ## Official communications
 
-Official ecosystem email uses **Otya Communications** as the shared sender identity. Product-specific notices follow the central communications, privacy and consent rules; Telegram remains for public announcements, release updates and events.
+Official ecosystem email uses **Otya** as the shared sender identity. Product-specific notices follow the central communications, privacy and consent rules; Telegram remains for public announcements, release updates and events.
 
-See the [Otya Communications Standard](https://github.com/OtyaHQ/OEnd/blob/main/docs/architecture/COMMUNICATIONS_STANDARD.md).
+See the [Otya Standard](https://github.com/OtyaHQ/OEnd/blob/main/docs/architecture/COMMUNICATIONS_STANDARD.md).
 
 ## Official channels
 
